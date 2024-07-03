@@ -5,26 +5,43 @@ The code in this repo is for submission to Kattis website, so when you copy and 
 
 Here is the list of all the problems I did so far:
 * Easy:
+  * Add Two Numbers
+  * Amerískur vinnustaður
   * Autori
+  * Barcelona
   * BergMál
   * Best Blaðra
-  * Blandað
+  * Besta gjöfin
+  * Betting
+  * Blandað Best
+  * Blaðra
   * Draga Frá
+  * Echo Echo Echo
   * Flatbökuveisla
   * Framtíðar FIFA
   * Hello World!
   * Hipp Hipp
+  * Hipp Hipp Húrra
+  * Hraðgreining
+  * Jack-O'-Lantern Juxtaposition
+  * Knight Packing
   * Kveðja
   * Leggja saman
   * Leyniþjónusta
   * Lubbi Lærir
+  * Metronome
   * Millifærsla
+  * Odd Echo
+  * Quadrant Selection
   * Reduplication
+  * Spritt
   * Stórafmæli
+  * Take Two Stones
   * Takk fyrir mig
   * Til hamingju
   * Tölvunarfræðingar telja
   * Velkomin!
   * Viðsnúningur
+  * Which is Greater?
   * Á leið í bíó
   * Óvissa
