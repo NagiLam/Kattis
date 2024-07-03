@@ -5,5 +5,26 @@ The code in this repo is for submission to Kattis website, so when you copy and 
 
 Here is the list of all the problems I did so far:
 * Easy:
+  * Autori
+  * BergMál
+  * Best Blaðra
+  * Blandað
+  * Draga Frá
+  * Flatbökuveisla
+  * Framtíðar FIFA
+  * Hello World!
   * Hipp Hipp
+  * Kveðja
+  * Leggja saman
+  * Leyniþjónusta
+  * Lubbi Lærir
+  * Millifærsla
+  * Reduplication
+  * Stórafmæli
+  * Takk fyrir mig
+  * Til hamingju
+  * Tölvunarfræðingar telja
   * Velkomin!
+  * Viðsnúningur
+  * Á leið í bíó
+  * Óvissa
