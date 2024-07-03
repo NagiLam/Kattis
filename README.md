@@ -4,6 +4,7 @@ This is my repository for coding solutions on Kattis. Remember, this is throw-aw
 The code in this repo is for submission to Kattis website, so when you copy and run it on your computer/browser there may be some problems. To submit code on Kattis, you need to make sure that the name of the Java file name, Mainclass name, and the class name in the editor are the same. Feel free to use my solutions in any way you like.
 
 Here is the list of all the problems I did so far:
+
 * Easy:
   * Add Two Numbers	
   * Amerískur vinnustaður	
