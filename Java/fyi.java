@@ -9,5 +9,6 @@ class fyi {
         System.out.println((teleNum.substring(0, 3).equals("555")
                 ? "1"
                 : "0"));
+        in.close();
     }
 }
