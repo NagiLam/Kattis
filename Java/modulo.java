@@ -1,3 +1,4 @@
+// Kattis - Modulo
 import java.util.*;
 
 class modulo {
