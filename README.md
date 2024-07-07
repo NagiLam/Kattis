@@ -14,42 +14,69 @@ Here is the list of all the problems I did so far:
   * Besta gjöfin
   * Betting
   * Bijele
+  * Bitte ein Bit
   * Blandað Best
   * Blaðra
+  * Chanukah Challenge
+  * Cosmic Path Optimization
+  * Count the Vowels
+  * Decimal deletion
+  * Digit Swap
   * Draga Frá
   * Echo Echo Echo
+  * Fimmtudagstilboð
+  * Finding An A
+  * Fjöldi Bókstafa
   * Flatbökuveisla
+  * Flýtibaka
   * Framtíðar FIFA
+  * FYI
   * Hello World!
   * Hipp Hipp
   * Hipp Hipp Húrra
   * Hissing Microphone
   * Hraðgreining
   * IsItHalloween.com
+  * Is Y a Vowel?
   * Jack-O'-Lantern Juxtaposition
+  * Jumbo Javelin
+  * Keys, Phone, Wallet
+  * Kiki Boba
   * Knight Packing
+  * Knot Knowledge
   * Kveðja
+  * Kínahvísl
   * Leggja saman
   * Leyniþjónusta
   * Lubbi Lærir
+  * Message
   * Metronome
   * Millifærsla
+  * Modulo
+  * Monopoly
+  * N-sum
   * Odd Echo
   * Oddities
   * Quadrant Selection
   * Quality-Adjusted Life-Year
   * R2
   * Reduplication
+  * Reverse
+  * Shandy
   * Solving for Carrots
+  * Sort Two Numbers
   * Spritt
   * Stuck In A Time Loop
   * Stórafmæli
   * Take Two Stones
   * Takk fyrir mig
   * Til hamingju
+  * Triangle Area
+  * Two-sum
   * Tölvunarfræðingar telja
   * Umferð
   * Velkomin!
+  * Veður - Lokaðar heiðar
   * Viðsnúningur
   * Which is Greater?
   * Á leið í bíó
