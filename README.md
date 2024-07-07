@@ -6,7 +6,7 @@ The code in this repo is for submission to Kattis website, so when you copy and 
 Here is the list of all the problems I did so far:
 
 * Easy:
-  * Add Two Numbers
+  * [Add Two Numbers](Java/addtwonumbers.java)
   * Amerískur vinnustaður
   * Autori
   * Barcelona
