@@ -1,3 +1,4 @@
+// Kattis - Til hamingju
 import java.util.*;
 
 class tilhamingju {
