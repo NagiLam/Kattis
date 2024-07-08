@@ -1,3 +1,4 @@
+// Kattis - Takk fyrir mig
 import java.util.*;
 
 class takkfyrirmig {
