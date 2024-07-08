@@ -29,7 +29,7 @@ Here is the list of all the problems I did so far:
   * [Fjöldi Bókstafa](Java/fjoldibokstafa.java)
   * [Flatbökuveisla](Java/flatbokuveisla.java)
   * [Flýtibaka](Java/*.java)
-  * [Framtíðar FIFA](Java/*.java)
+  * [Framtíðar FIFA](Java/fifa.java)
   * [FYI](Java/fyi.java)
   * [Hello World!](Java/hello.java)
   * [Hipp Hipp](Java/hipphipp.java)
