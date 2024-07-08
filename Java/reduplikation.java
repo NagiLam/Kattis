@@ -1,3 +1,4 @@
+// Kattis - Reduplication
 import java.util.*;
 
 class reduplikation {
