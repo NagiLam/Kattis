@@ -1,3 +1,4 @@
+// Kattis - Stórafmæli
 import java.util.*;
 
 class storafmaeli {
