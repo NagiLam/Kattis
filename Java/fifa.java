@@ -1,3 +1,4 @@
+// Kattis - Framtíðar FIFA
 import java.util.*;
 
 class fifa {
