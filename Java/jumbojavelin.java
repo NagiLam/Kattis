@@ -1,4 +1,4 @@
- // Kattis - Jumbo Javelin
+// Kattis - Jumbo Javelin
 import java.util.*;
 
 class jumbojavelin {
