@@ -1,3 +1,4 @@
+// Kattis - Hello World!
 import java.util.*;
 
 class hello {
