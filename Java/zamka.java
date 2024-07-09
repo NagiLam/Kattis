@@ -17,25 +17,21 @@ class zamka {
         int L = Integer.parseInt(in.nextLine());
         int D = Integer.parseInt(in.nextLine());
         int X = Integer.parseInt(in.nextLine());
-        int minInt = 0;
-        int maxInt = 0;
 
         for (int i = L; i <= D; i++) {
             if (sumDigits(i) == X) {
-                minInt = i;
+                System.out.println(i);
                 break;
             }
         }
 
         for (int j = D; j >= L; j--) {
             if (sumDigits(j) == X) {
-                maxInt = j;
+                System.out.println(j);
                 break;
             }
         }
 
-        System.out.println(minInt);
-        System.out.println(maxInt);
         in.close();
     }
 }
