@@ -1,7 +1,7 @@
 # Kattis
 This is my repository for coding solutions on Kattis. Remember, this is throw-away code that is only supposed to get the job done. It may not be the most optimal way to do these tasks. Most of my code here will be using Java. The code stored in this repo is for submission to Kattis website, so when you copy and run it on your computer/browser there may be some problems. To submit code on Kattis, you need to make sure that the name of the Java file name, Mainclass name, and the class name in the editor are the same. Feel free to use my solutions in any way you like.
 
-Total problems solved: 162. Below is the list of all the problems I did so far:
+Total problems solved: 167. Below is the list of all the problems I did so far:
 
 * Easy:
   * [ASCII kassi](Java/asciikassi.java)
@@ -36,6 +36,7 @@ Total problems solved: 162. Below is the list of all the problems I did so far:
   * [Cudoviste](Java/cudoviste.java)
   * [Cut the Negativity](Java/cutthenegativity.java)
   * [D Fyrir Dreki](Java/dfyrirdreki.java)
+  * [Datum](Java/datum.java)
   * [Deathstar](Java/deathstar.java)
   * [Decimal deletion](Java/decimaldeletion.java)
   * [Detailed Differences](Java/detaileddifferences.java)
@@ -49,6 +50,7 @@ Total problems solved: 162. Below is the list of all the problems I did so far:
   * [Encoded Message](Java/encodedmessage.java)
   * [Eye of Sauron](Java/eyeofsauron.java)
   * [FYI](Java/fyi.java)
+  * [Falling Apart](Java/fallingapart.java)
   * [Filip](Java/filip.java)
   * [Fimmtudagstilboð](Java/fimmtudagstilbod.java)
   * [Finding An A](Java/findingana.java)
@@ -64,6 +66,7 @@ Total problems solved: 162. Below is the list of all the problems I did so far:
   * [Harshad Numbers](Java/harshadnumbers.java)
   * [Heart Rate](Java/heartrate.java)
   * [Hello World!](Java/hello.java)
+  * [Help a PhD candidate out!](Java/helpaphd.java)
   * [Hipp Hipp Húrra](Java/hipphipphurra.java)
   * [Hipp Hipp](Java/hipphipp.java)
   * [Hissing Microphone](Java/hissingmicrophone.java)
@@ -113,6 +116,7 @@ Total problems solved: 162. Below is the list of all the problems I did so far:
   * [Provinces and Gold](Java/provincesandgold.java)
   * [Quadrant Selection](Java/quadrant.java)
   * [Quality-Adjusted Life-Year](Java/qaly.java)
+  * [Quick Estimates](Java/quickestimate.java )
   * [R2](Java/r2.java)
   * [Rating Problems](Java/ratingproblems.java)
   * [Raðgreining 1](Java/radgreining1.java)
@@ -145,6 +149,7 @@ Total problems solved: 162. Below is the list of all the problems I did so far:
   * [Take Two Stones](Java/twostones.java)
   * [Takk fyrir mig](Java/takkfyrirmig.java)
   * [Tarifa](Java/tarifa.java)
+  * [The Amazing Human Cannonball](Java/humancannonball2.java)
   * [Til hamingju](Java/tilhamingju.java)
   * [Tok Tik](Java/toktik.java)
   * [Training](Java/training.java)
