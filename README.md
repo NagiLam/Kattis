@@ -1,7 +1,7 @@
 # Kattis
 This is my repository for coding solutions on Kattis. Remember, this is throw-away code that is only supposed to get the job done. It may not be the most optimal way to do these tasks. Most of my code here will be using Java. The code stored in this repo is for submission to Kattis website, so when you copy and run it on your computer/browser there may be some problems. To submit code on Kattis, you need to make sure that the name of the Java file name, Mainclass name, and the class name in the editor are the same. Feel free to use my solutions in any way you like.
 
-Total problems solved: 167. Below is the list of all the problems I did so far:
+Total problems solved: 183. Below is the list of all the problems I did so far:
 
 * Easy:
   * [A Shortcut to What?](Java/shortcuttowhat.java)
@@ -32,12 +32,14 @@ Total problems solved: 167. Below is the list of all the problems I did so far:
   * [Cetvrta](Java/cetvrta.java)
   * [Chanukah Challenge](Java/chanukah.java)
   * [Class Field Trip](Java/classfieldtrip.java)
+  * [Coffee Cup Combo](Java/coffeecupcombo.java)
   * [Cold-puter Science](Java/cold.java)
   * [Cosmic Path Optimization](Java/cosmicpathoptimization.java)
   * [Count the Vowels](Java/countthevowels.java)
   * [Cryptographer's Conundrum](Java/conundrum.java)
   * [Cudoviste](Java/cudoviste.java)
   * [Cut the Negativity](Java/cutthenegativity.java)
+  * [Cypher Decypher](Java/cypherdecypher.java)
   * [D Fyrir Dreki](Java/dfyrirdreki.java)
   * [Dagatal](Java/dagatal.java)
   * [Datum](Java/datum.java)
@@ -109,12 +111,14 @@ Total problems solved: 167. Below is the list of all the problems I did so far:
   * [N-sum](Java/nsum.java)
   * [Nasty Hacks](Java/nastyhacks.java)
   * [No Duplicates](Java/nodup.java)
+  * [Number Fun](Java/numberfun.java)
   * [Odd Echo](Java/oddecho.java)
   * [Odd Man Out](Java/oddmanout.java)
   * [Oddities](Java/oddities.java)
   * [One Chicken Per Person!](Java/onechicken.java)
   * [Pencil Crayons](Java/pencilcrayons.java)
   * [Pet](Java/pet.java)
+  * [Piece of Cake!](Java/pieceofcake2.java)
   * [Planina](Java/planina.java)
   * [Pokechat](Java/pokechat.java)
   * [Poker Hand](Java/pokerhand.java)
@@ -157,9 +161,11 @@ Total problems solved: 167. Below is the list of all the problems I did so far:
   * [Sóttkví](Java/sottkvi.java)
   * [Take Two Stones](Java/twostones.java)
   * [Takk fyrir mig](Java/takkfyrirmig.java)
+  * [Takkar](Java/takkar.java)
   * [Tarifa](Java/tarifa.java)
   * [The Amazing Human Cannonball](Java/humancannonball2.java)
   * [Til hamingju](Java/tilhamingju.java)
+  * [Title Cost](Java/titlecost.java)
   * [Tok Tik](Java/toktik.java)
   * [Training](Java/training.java)
   * [Triangle Area](Java/triarea.java)
@@ -171,6 +177,7 @@ Total problems solved: 167. Below is the list of all the problems I did so far:
   * [Umferð](Java/umferd.java)
   * [Undead or Alive](Java/undeadoralive.java)
   * [Veci](Java/veci.java)
+  * [Vefþjónatjón](Java/vefthjonatjon.java)
   * [Velkomin!](Java/velkomin.java)
   * [Veður - Lokaðar heiðar](Java/vedurheidar.java)
   * [Veður - Vindhraði](Java/vedurvindhradi.java)
