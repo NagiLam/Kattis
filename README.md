@@ -187,3 +187,5 @@ Total problems solved: 183. Below is the list of all the problems I did so far:
   * [Zamka](Java/zamka.java)
   * [Á leið í bíó](Java/aleidibio.java)
   * [Óvissa](Java/ovissa.java)
+  * [Moderate Pace](Java/moderatepace.java)
+  * [Avion](Java/avion.java)
