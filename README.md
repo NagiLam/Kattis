@@ -1,7 +1,11 @@
 # Kattis
-This is my repository for coding solutions on Kattis. Remember, this is throw-away code that is only supposed to get the job done. It may not be the most optimal way to do these tasks. Most of my code here will be using Java. The code stored in this repo is for submission to Kattis website, so when you copy and run it on your computer/browser there may be some problems. To submit code on Kattis, you need to make sure that the name of the Java file name, Mainclass name, and the class name in the editor are the same. Feel free to use my solutions in any way you like.
+This repository contains my solutions for various Kattis programming challenges. Please note that the code here is meant to solve the problems as required, without necessarily focusing on optimization or best practices—it’s designed to get the job done.
 
-Total problems solved: 183. Below is the list of all the problems I did so far:
+Most of the solutions are written in Java. Keep in mind, when submitting Java code to Kattis, the filename, class name, and the name of the Main class must all match for the submission to work correctly. If you’re copying and running the code locally, you might encounter issues due to this setup.
+
+Feel free to use these solutions as needed. They’re intended for submission on the Kattis platform and are available for reference or personal use.
+
+Total problems solved: 196. Below is the list of all the problems I did so far:
 
 * Easy:
   * [A Shortcut to What?](Java/shortcuttowhat.java)
@@ -14,8 +18,10 @@ Total problems solved: 183. Below is the list of all the problems I did so far:
   * [Apaxiaaaaaaaaaaaans!](Java/apaxiaaans.java)
   * [Arrangement](Java/upprodun.java)
   * [Autori](Java/autori.java)
+  * [Avion](Java/avion.java)
   * [Bannorð](Java/bannord.java)
   * [Barcelona](Java/barcelona.java)
+  * [Basketball One-on-One](Java/basketballoneonone.java)
   * [Batter Up](Java/batterup.java)
   * [Bela](Java/bela.java)
   * [BergMál](Java/bergmal.java)
@@ -28,6 +34,7 @@ Total problems solved: 183. Below is the list of all the problems I did so far:
   * [Blandað Best](Java/blandadbest.java)
   * [Blaðra](Java/bladra2.java)
   * [CPR Number](Java/cprnummer.java)
+  * [Canadians, eh?](Java/canadianseh.java)
   * [Candy Store](Java/candystore.java)
   * [Cetvrta](Java/cetvrta.java)
   * [Chanukah Challenge](Java/chanukah.java)
@@ -66,6 +73,7 @@ Total problems solved: 183. Below is the list of all the problems I did so far:
   * [Flatbökuveisla](Java/flatbokuveisla.java)
   * [Flýtibaka](Java/flytibaka.java)
   * [Framtíðar FIFA](Java/fifa.java)
+  * [Free Food](Java/freefood.java)
   * [GCVWR](Java/gcvwr.java)
   * [Grading](Java/grading.java)
   * [Grass Seed Inc.](Java/grassseed.java)
@@ -81,9 +89,11 @@ Total problems solved: 183. Below is the list of all the problems I did so far:
   * [Homework](Java/heimavinna.java)
   * [Hraðgreining](Java/hradgreining.java)
   * [I've Been Everywhere, Man](Java/everywhere.java)
+  * [International Dates](Java/internationaldates.java)
   * [Is Y a Vowel?](Java/isyavowel.java)
   * [IsItHalloween.com](Java/isithalloween.java)
   * [Jack-O'-Lantern Juxtaposition](Java/jackolanternjuxtaposition.java)
+  * [Job Expenses](Java/jobexpenses.java)
   * [Judging Moose](Java/judgingmoose.java)
   * [Jumbo Javelin](Java/jumbojavelin.java)
   * [Keys, Phone, Wallet](Java/keysphonewallet.java)
@@ -94,6 +104,7 @@ Total problems solved: 183. Below is the list of all the problems I did so far:
   * [Kínahvísl](Java/kinahvisl.java)
   * [Ladder](Java/ladder.java)
   * [Last Factorial Digit](Java/lastfactorialdigit.java)
+  * [Left Beehind](Java/leftbeehind.java)
   * [Leggja saman](Java/leggjasaman.java)
   * [Leyniþjónusta](Java/leynithjonusta.java)
   * [License to Launch](Java/licensetolaunch.java)
@@ -103,6 +114,7 @@ Total problems solved: 183. Below is the list of all the problems I did so far:
   * [Metronome](Java/metronome.java)
   * [Millifærsla](Java/millifaersla.java)
   * [Mixed Fractions](Java/mixedfractions.java)
+  * [Moderate Pace](Java/moderatepace.java)
   * [Modulo](Java/modulo.java)
   * [Monopoly](Java/monopol.java)
   * [Mumble Rap](Java/mumblerap.java)
@@ -127,6 +139,7 @@ Total problems solved: 183. Below is the list of all the problems I did so far:
   * [Provinces and Gold](Java/provincesandgold.java)
   * [Quadrant Selection](Java/quadrant.java)
   * [Quality-Adjusted Life-Year](Java/qaly.java)
+  * [Quick Brown Fox](Java/quickbrownfox.java)
   * [Quick Estimates](Java/quickestimate.java )
   * [R2](Java/r2.java)
   * [Rating Problems](Java/ratingproblems.java)
@@ -137,6 +150,7 @@ Total problems solved: 183. Below is the list of all the problems I did so far:
   * [Reverse](Java/ofugsnuid.java)
   * [Reversed Binary Numbers](Java/reversebinary.java)
   * [SMIL](Java/smil.java)
+  * [Secure Doors](Java/securedoors.java)
   * [Seven Wonders](Java/sevenwonders.java)
   * [Shandy](Java/shandy.java)
   * [Shattered Cake](Java/shatteredcake.java)
@@ -159,6 +173,7 @@ Total problems solved: 183. Below is the list of all the problems I did so far:
   * [Sum Kind of Problem](Java/sumkindofproblem.java)
   * [Sum Squared Digits Function](Java/sumsquareddigits.java)
   * [Sóttkví](Java/sottkvi.java)
+  * [T9 Spelling](Java/t9spelling.java)
   * [Take Two Stones](Java/twostones.java)
   * [Takk fyrir mig](Java/takkfyrirmig.java)
   * [Takkar](Java/takkar.java)
@@ -185,7 +200,7 @@ Total problems solved: 183. Below is the list of all the problems I did so far:
   * [Weak Vertices](Java/weakvertices.java)
   * [Which is Greater?](Java/whichisgreater.java)
   * [Zamka](Java/zamka.java)
+  * [Zoom](Java/zoom.java)
   * [Á leið í bíó](Java/aleidibio.java)
   * [Óvissa](Java/ovissa.java)
-  * [Moderate Pace](Java/moderatepace.java)
-  * [Avion](Java/avion.java)
+  * [Úllen dúllen doff](Java/ullendullendoff.java)
