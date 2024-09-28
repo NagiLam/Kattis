@@ -5,7 +5,7 @@ Most of the solutions are written in Java. Keep in mind, when submitting Java co
 
 Feel free to use these solutions as needed. They’re intended for submission on the Kattis platform and are available for reference or personal use.
 
-Total problems solved: 196. Below is the list of all the problems I did so far:
+Total problems solved: 204. Below is the list of all the problems I did so far:
 
 * Easy:
   * [A Shortcut to What?](Java/shortcuttowhat.java)
@@ -19,6 +19,7 @@ Total problems solved: 196. Below is the list of all the problems I did so far:
   * [Arrangement](Java/upprodun.java)
   * [Autori](Java/autori.java)
   * [Avion](Java/avion.java)
+  * [Bacon, Eggs, and Spam](Java/baconeggsandspam.java)
   * [Bannorð](Java/bannord.java)
   * [Barcelona](Java/barcelona.java)
   * [Basketball One-on-One](Java/basketballoneonone.java)
@@ -60,11 +61,13 @@ Total problems solved: 196. Below is the list of all the problems I did so far:
   * [Draga Frá](Java/dragafra.java)
   * [Echo Echo Echo](Java/echoechoecho.java)
   * [Ekki dauði opna inni](Java/ekkidaudi.java)
+  * [Election Paradox](Java/electionparadox.java)
   * [Eligibility](Java/eligibility.java)
   * [Encoded Message](Java/encodedmessage.java)
   * [Eye of Sauron](Java/eyeofsauron.java)
   * [FYI](Java/fyi.java)
   * [Falling Apart](Java/fallingapart.java)
+  * [Fifty Shades of Pink](Java/fiftyshades.java)
   * [Filip](Java/filip.java)
   * [Fimmtudagstilboð](Java/fimmtudagstilbod.java)
   * [Finding An A](Java/findingana.java)
@@ -89,6 +92,7 @@ Total problems solved: 196. Below is the list of all the problems I did so far:
   * [Homework](Java/heimavinna.java)
   * [Hraðgreining](Java/hradgreining.java)
   * [I've Been Everywhere, Man](Java/everywhere.java)
+  * [ICPC Awards](Java/icpcawards.java)
   * [International Dates](Java/internationaldates.java)
   * [Is Y a Vowel?](Java/isyavowel.java)
   * [IsItHalloween.com](Java/isithalloween.java)
@@ -114,6 +118,7 @@ Total problems solved: 196. Below is the list of all the problems I did so far:
   * [Metronome](Java/metronome.java)
   * [Millifærsla](Java/millifaersla.java)
   * [Mixed Fractions](Java/mixedfractions.java)
+  * [Mjehuric](Java/mjehuric.java)
   * [Moderate Pace](Java/moderatepace.java)
   * [Modulo](Java/modulo.java)
   * [Monopoly](Java/monopol.java)
@@ -131,12 +136,14 @@ Total problems solved: 196. Below is the list of all the problems I did so far:
   * [Pencil Crayons](Java/pencilcrayons.java)
   * [Pet](Java/pet.java)
   * [Piece of Cake!](Java/pieceofcake2.java)
+  * [Pizza Crust](Java/pizza2.java)
   * [Planina](Java/planina.java)
   * [Pokechat](Java/pokechat.java)
   * [Poker Hand](Java/pokerhand.java)
   * [Pot](Java/pot.java)
   * [Prjónamynstur](Java/prjonamynstur.java)
   * [Provinces and Gold](Java/provincesandgold.java)
+  * [Prsteni](Java/prsteni.java)
   * [Quadrant Selection](Java/quadrant.java)
   * [Quality-Adjusted Life-Year](Java/qaly.java)
   * [Quick Brown Fox](Java/quickbrownfox.java)
@@ -179,6 +186,7 @@ Total problems solved: 196. Below is the list of all the problems I did so far:
   * [Takkar](Java/takkar.java)
   * [Tarifa](Java/tarifa.java)
   * [The Amazing Human Cannonball](Java/humancannonball2.java)
+  * [The Key to Cryptography](Java/keytocrypto.java)
   * [Til hamingju](Java/tilhamingju.java)
   * [Title Cost](Java/titlecost.java)
   * [Tok Tik](Java/toktik.java)
