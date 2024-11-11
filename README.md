@@ -5,7 +5,7 @@ Most of the solutions are written in Java. Keep in mind, when submitting Java co
 
 Feel free to use these solutions as needed. They’re intended for submission on the Kattis platform and are available for reference or personal use.
 
-Total problems solved: 240. Below is the list of all the problems I did so far:
+Total problems solved: 245. Below is the list of all the problems I did so far:
 
 * Easy:
   * [A Second Opinion](Java/secondopinion.java)
@@ -67,6 +67,7 @@ Total problems solved: 240. Below is the list of all the problems I did so far:
   * [Divvying Up](Java/divvyingup.java)
   * [Draga Frá](Java/dragafra.java)
   * [Echo Echo Echo](Java/echoechoecho.java)
+  * [Egypt](Java/egypt.java)
   * [Ekki dauði opna inni](Java/ekkidaudi.java)
   * [Election Paradox](Java/electionparadox.java)
   * [Eligibility](Java/eligibility.java)
@@ -86,6 +87,7 @@ Total problems solved: 240. Below is the list of all the problems I did so far:
   * [Flýtibaka](Java/flytibaka.java)
   * [Framtíðar FIFA](Java/fifa.java)
   * [Free Food](Java/freefood.java)
+  * [Fyrirtækjanafn](Java/fyrirtaekjanafn.java)
   * [GCVWR](Java/gcvwr.java)
   * [Grading](Java/grading.java)
   * [Grass Seed Inc.](Java/grassseed.java)
@@ -158,6 +160,7 @@ Total problems solved: 240. Below is the list of all the problems I did so far:
   * [Pet](Java/pet.java)
   * [Piece of Cake!](Java/pieceofcake2.java)
   * [Pizza Crust](Java/pizza2.java)
+  * [Pizzubestun](Java/pizzubestun.java)
   * [Planina](Java/planina.java)
   * [Pokechat](Java/pokechat.java)
   * [Poker Hand](Java/pokerhand.java)
@@ -187,12 +190,14 @@ Total problems solved: 240. Below is the list of all the problems I did so far:
   * [Shattered Cake](Java/shatteredcake.java)
   * [Shopping List (Easy)](Java/shoppinglisteasy.java)
   * [Sibice](Java/sibice.java)
+  * [Simon Says](Java/simon.java)
   * [Simon Says](Java/simonsays.java)
   * [Sith](Java/sith.java)
   * [Skammstöfun](Java/skammstofun.java)
   * [Skener](Java/skener.java)
   * [Soda Slurper](Java/sodaslurper.java)
   * [Solving for Carrots](Java/carrots.java)
+  * [Some Sum](Java/somesum.java)
   * [Sort Two Numbers](Java/sorttwonumbers.java)
   * [Soylent](Java/soylent.java)
   * [Spavanac](Java/spavanac.java)
