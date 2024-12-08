@@ -5,7 +5,7 @@ Most of the solutions are written in Java. Keep in mind, when submitting Java co
 
 Feel free to use these solutions as needed. They’re intended for submission on the Kattis platform and are available for reference or personal use.
 
-Total problems solved: 268. Below is the list of all the problems I did so far:
+Total problems solved: 270. Below is the list of all the problems I did so far:
 
 * Easy:
   * [A Second Opinion](Java/secondopinion.java)
@@ -17,6 +17,7 @@ Total problems solved: 268. Below is the list of all the problems I did so far:
   * [Adding Trouble](Java/addingtrouble.java)
   * [Afjörmun](Java/afjormun.java )
   * [Airfare Grants](Java/airfaregrants.java)
+  * [Akureyri](Java/akureyri.java)
   * [Aldur](Java/aldur.java)
   * [Amerískur vinnustaður](Java/ameriskur.java)
   * [Apaxiaaaaaaaaaaaans!](Java/apaxiaaans.java)
@@ -49,6 +50,7 @@ Total problems solved: 268. Below is the list of all the problems I did so far:
   * [Candy Store](Java/candystore.java)
   * [Cetvrta](Java/cetvrta.java)
   * [Chanukah Challenge](Java/chanukah.java)
+  * [Chardonnay](Java/chardonnay.java)
   * [Class Field Trip](Java/classfieldtrip.java)
   * [Coffee Cup Combo](Java/coffeecupcombo.java)
   * [Cold-puter Science](Java/cold.java)
@@ -75,17 +77,20 @@ Total problems solved: 268. Below is the list of all the problems I did so far:
   * [Egypt](Java/egypt.java)
   * [Ekki dauði opna inni](Java/ekkidaudi.java)
   * [Election Paradox](Java/electionparadox.java)
+  * [Electrical Outlets](Java/electricaloutlets.java)
   * [Eligibility](Java/eligibility.java)
   * [Encoded Message](Java/encodedmessage.java)
   * [Endurvinnsla](Java/endurvinnsla.java)
   * [Equal Shots](Java/equalshots.java)
   * [Erase Securely](Java/erase.java)
+  * [Ethanol](Java/ethanol.java)
   * [Eye of Sauron](Java/eyeofsauron.java)
   * [FYI](Java/fyi.java)
   * [Falling Apart](Java/fallingapart.java)
   * [Fifty Shades of Pink](Java/fiftyshades.java)
   * [Filip](Java/filip.java)
   * [Fimmtudagstilboð](Java/fimmtudagstilbod.java)
+  * [Final Exam](Java/finalexam2.java)
   * [Finding An A](Java/findingana.java)
   * [FizzBuzz](Java/fizzbuzz.java)
   * [Fjöldi Bókstafa](Java/fjoldibokstafa.java)
@@ -93,6 +98,7 @@ Total problems solved: 268. Below is the list of all the problems I did so far:
   * [Flýtibaka](Java/flytibaka.java)
   * [Framtíðar FIFA](Java/fifa.java)
   * [Free Food](Java/freefood.java)
+  * [Frumtölur](Java/frumtolur.java)
   * [Fyrirtækjanafn](Java/fyrirtaekjanafn.java)
   * [GCVWR](Java/gcvwr.java)
   * [Gin Fizz](Java/ginfizz.java)
@@ -132,6 +138,7 @@ Total problems solved: 268. Below is the list of all the problems I did so far:
   * [Kveðja](Java/kvedja.java)
   * [Kínahvísl](Java/kinahvisl.java)
   * [Ladder](Java/ladder.java)
+  * [Laptop Sticker](Java/laptopsticker.java)
   * [Last Factorial Digit](Java/lastfactorialdigit.java)
   * [Left Beehind](Java/leftbeehind.java)
   * [Leggja saman](Java/leggjasaman.java)
@@ -139,7 +146,9 @@ Total problems solved: 268. Below is the list of all the problems I did so far:
   * [License to Launch](Java/licensetolaunch.java)
   * [Line Them Up](Java/lineup.java)
   * [Lines Per Hour](Java/linesperhour.java)
+  * [Liðaskipting](Java/lidaskipting.java)
   * [Lubbi Lærir](Java/lubbilaerir.java)
+  * [Léttasta verkefnið?](Java/lettasta.java)
   * [Magic Trick](Java/magictrick.java)
   * [Mergjað Mál](Java/mergjadmal.java)
   * [Message](Java/meddelande.java)
