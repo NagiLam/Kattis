@@ -294,3 +294,4 @@ Total problems solved: 290. Below is the list of all the problems I did so far:
   * [Á leið í bíó](Java/aleidibio.java)
   * [Óvissa](Java/ovissa.java)
   * [Úllen dúllen doff](Java/ullendullendoff.java)
+  * [ACM Contest Scoring](Java/acm.java)
