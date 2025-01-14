@@ -296,3 +296,4 @@ Total problems solved: 292. Below is the list of all the problems I did so far:
   * [Úllen dúllen doff](Java/ullendullendoff.java)
   * [ACM Contest Scoring](Java/acm.java)
   * [Eldspýtur](Java/eldspytur.java)
+  * [Púsluspil](Java/pusluspil.java)
