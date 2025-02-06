@@ -5,7 +5,7 @@ Most of the solutions are written in Java. Keep in mind, when submitting Java co
 
 Feel free to use these solutions as needed. They’re intended for submission on the Kattis platform and are available for reference or personal use.
 
-Total problems solved: 310. Below is the list of all the problems I did so far:
+Total problems solved: 311. Below is the list of all the problems I did so far:
 
 * Easy:
   * [A Different Problem](Java/different.java)
